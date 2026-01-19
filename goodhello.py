@@ -6,7 +6,7 @@ def hello():
 
 def bye():
     """Prints a simple farewell."""
-    print("Goodbye!")
+    print("Good Morning!")
 
 if __name__ == "__main__":
     hello()
